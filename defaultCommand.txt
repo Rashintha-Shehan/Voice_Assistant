@@ -1,0 +1,11 @@
+﻿Hello
+How are you
+what is the time now
+Date
+Month
+Year
+Wake up
+Stop talking
+Stop listening
+Show commands
+Hide commands
